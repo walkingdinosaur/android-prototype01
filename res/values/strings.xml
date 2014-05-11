@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prototype01</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_menu_start">Start</string>
+    <string name="action_menu_stop">Stop</string>
+
+    <string name="appid">dj0zaiZpPWN6ZXBYYzNWQ2hISyZkPVlXazlNMWh3VUdZMk5qSW1jR285TUEtLSZzPWNvbnN1bWVyc2VjcmV0Jng9MDU-</string>
+</resources>

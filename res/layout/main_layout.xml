@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/ymap"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/location_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location Stop"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/location_change"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/location_status"
+        android:text="LocationChange" />
+
+</RelativeLayout>
