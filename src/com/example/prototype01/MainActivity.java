@@ -5,7 +5,10 @@ import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import android.R;
+import jp.co.yahoo.android.maps.GeoPoint;
+import jp.co.yahoo.android.maps.MapController;
+import jp.co.yahoo.android.maps.MapView;
+import jp.co.yahoo.android.maps.MapViewListener;
 import android.app.Activity;
 import android.app.Fragment;
 import android.content.Context;
